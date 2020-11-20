@@ -1,0 +1,2 @@
+Get Timer working (for text crawl)
+Images and story
